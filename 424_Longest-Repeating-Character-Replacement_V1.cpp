@@ -1,3 +1,12 @@
+//
+// For Window Problem consider the following
+// Window start and end at same point
+// when to move window vs when to resize it
+// what variables to monitor
+// condition for resizing and moving
+// Maximum needs to be used and considered
+// max() function
+//
 class Solution {
 public:
     int characterReplacement(string s, int k) {
